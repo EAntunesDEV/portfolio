@@ -143,3 +143,9 @@ body {
 
     
 }
+
+.videos_projetos {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
